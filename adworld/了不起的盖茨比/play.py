@@ -32,3 +32,5 @@ b'A0bzFxdM95YoXm64g0gZkiTloPsBAq7iV56t1M7Q4zVNxRJSTdZH0lzOMa7QyIQbKN/ftm01iZgQAk
 key2 = b64decode(key)
 c2 = b64decode(c)
 print(key2, c2)
+
+# many time pad
